@@ -1,0 +1,3 @@
+"footageId","width","height","Duration","Orientation","MIME type","Update Query","Error"
+"100307",,,,,,,"[error] https://s3.amazonaws.com/jukinvideo_master_video_files/24808/camera_on_bike_bmx_jumps_and_hits_%7C_parked_bike.mov: Server returned 403 Forbidden (access denied)"
+"101839","1280","720","35","Landscape","video/mp4","update footage set height='720' , width='1280' , orientation='Landscape', duration='35' where id='101839'; update file_asset set mime_type='video/mp4' where id='101839';"
